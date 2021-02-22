@@ -1,0 +1,1 @@
+# go-mysql-struct-gen
